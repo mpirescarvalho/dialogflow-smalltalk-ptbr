@@ -1,0 +1,106 @@
+[
+  {
+    "id": "242467e7-e8e4-4144-b096-c453710e5f65",
+    "data": [
+      {
+        "text": "bom dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e7485e20-21d6-4a4f-8419-6d36b47e6a6d",
+    "data": [
+      {
+        "text": "bom dia para você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f8731f71-7f74-4a76-b961-9294205120a4",
+    "data": [
+      {
+        "text": "oi bom dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e4868ca2-b5ed-482c-bbbc-a975c97c67de",
+    "data": [
+      {
+        "text": "tenha uma boa manhã",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "77f794e4-1882-4cc6-9ed7-35102c3bf1b3",
+    "data": [
+      {
+        "text": "tenha uma manhã excelente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "52455510-6fd4-437d-ae30-322d2eff748c",
+    "data": [
+      {
+        "text": "dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f6f47154-e490-4baf-b26b-e91c67279703",
+    "data": [
+      {
+        "text": "uma manhã excelente para você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a86cc144-bd78-426f-857a-9b645fe89c12",
+    "data": [
+      {
+        "text": "um bom dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

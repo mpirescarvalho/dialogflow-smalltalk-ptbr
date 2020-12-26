@@ -1,0 +1,67 @@
+[
+  {
+    "id": "9c8d2c91-fbfe-4462-9906-c2220a33be75",
+    "data": [
+      {
+        "text": "respondo em um momento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a32f9a30-1f25-41c4-bba9-df3c1565509d",
+    "data": [
+      {
+        "text": "volto em 5 minutos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "63c1c9dd-4289-4fec-847e-25a9fbfd5d03",
+    "data": [
+      {
+        "text": "já volto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9a04c46d-6aaf-4ee8-aaf6-c50c91990109",
+    "data": [
+      {
+        "text": "prometo que volto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ab3faa93-7062-46c5-b59c-811e7e3a4ae7",
+    "data": [
+      {
+        "text": "volto em alguns minutos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

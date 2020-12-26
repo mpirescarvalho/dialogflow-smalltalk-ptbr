@@ -1,0 +1,106 @@
+[
+  {
+    "id": "67e739ef-93c7-4e64-a7d9-cf8d2a202758",
+    "data": [
+      {
+        "text": "você nasceu aqui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b8a3c91e-5472-4871-8452-4c31c07a6b97",
+    "data": [
+      {
+        "text": "onde você nasceu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "28602942-4ccd-44b1-9800-70c673f5aa42",
+    "data": [
+      {
+        "text": "qual é seu país",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9ca84ffe-7898-4dba-a97e-1099ea41f514",
+    "data": [
+      {
+        "text": "de onde você é",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "569bd2a6-2c37-46b1-9f23-6a6cfb55e827",
+    "data": [
+      {
+        "text": "de onde você vem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "415e6de2-c7c9-42c4-ade5-62d6c79f3ade",
+    "data": [
+      {
+        "text": "de onde você veio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d975f25a-43fe-472b-9ecf-c7320dc2f5e2",
+    "data": [
+      {
+        "text": "você é de algum lugar distante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "68312ed5-9f6e-4aba-95ff-bbe213d6df39",
+    "data": [
+      {
+        "text": "qual é sua terra natal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

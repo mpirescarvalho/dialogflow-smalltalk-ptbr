@@ -1,0 +1,132 @@
+[
+  {
+    "id": "cde03193-4ba4-40c5-960e-baa0460aee88",
+    "data": [
+      {
+        "text": "me fale sobre sua personalidade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4398969a-5bce-4971-8880-b4970a98dcb8",
+    "data": [
+      {
+        "text": "por que você está aqui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1f5224f5-a1f4-4418-9033-9ef0e826fa3e",
+    "data": [
+      {
+        "text": "fale sobre si mesmo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e72639a9-fdd0-4a7a-baac-08c237608c5a",
+    "data": [
+      {
+        "text": "me conte alguma coisa sobre você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "735267f0-0195-43c4-b0a1-57c51a0baba7",
+    "data": [
+      {
+        "text": "diga alguma coisa sobre si mesmo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "96ebffab-5a87-499d-9794-e0a130ff2d32",
+    "data": [
+      {
+        "text": "quero conhecer você melhor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "44c6451c-2eac-4bf0-81f8-04fb2a9520b7",
+    "data": [
+      {
+        "text": "quero saber mais sobre você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2194c9e5-8804-49fb-bb64-4b19b53503da",
+    "data": [
+      {
+        "text": "quem é você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ee74df56-e279-440d-85ea-7210c894f615",
+    "data": [
+      {
+        "text": "me fale sobre si mesmo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9a06b382-a6ac-4b57-a165-11d078cac493",
+    "data": [
+      {
+        "text": "me fale sobre você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

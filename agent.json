@@ -1,0 +1,53 @@
+{
+  "description": "Allow your app to engage in small talk about a variety of topics.",
+  "language": "pt-br",
+  "shortDescription": "Small talk topics to help make your bot more personable",
+  "examples": "User: Olá!\nUser: Está tudo bem?\nUser: Obrigado!\nUser: De nada.\nUser: E aí?\nUser: Estou entediado.\nUser: Estou brincando.\nUser: Muito bem!\nUser: Quem é você?\nUser: Quantos anos você tem?\nUser: Você é inteligente.\nUser: O que você faz para se divertir?",
+  "linkToDocs": "",
+  "displayName": "DrawBotTalk",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V1",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "url": "",
+    "username": "",
+    "headers": {},
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": false,
+  "mlMinConfidence": 0.2,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v1legacy",
+  "secondaryKey": "9afc8b49a94d4099955129d18f4b0fed",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": ""
+}

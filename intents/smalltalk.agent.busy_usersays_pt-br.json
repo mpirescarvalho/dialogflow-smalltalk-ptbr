@@ -1,0 +1,132 @@
+[
+  {
+    "id": "d8806029-ad8b-43c3-ba71-8b4b6a761c99",
+    "data": [
+      {
+        "text": "você está ocupado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bf0b4baf-6aa3-43e9-bea2-92dca1924496",
+    "data": [
+      {
+        "text": "você tem muita coisa para fazer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "853a4b8b-027b-4fcd-bb96-5801f2c0237d",
+    "data": [
+      {
+        "text": "você tem muito para fazer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d101f666-36fe-479a-80ba-ca8d34f0e605",
+    "data": [
+      {
+        "text": "você está muito ocupado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d4d17613-53f2-4d38-8d77-7ebfc577a1ac",
+    "data": [
+      {
+        "text": "você está muito ocupado agora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4becaedf-fec8-4662-8cb7-50d91c9422ae",
+    "data": [
+      {
+        "text": "você está ocupado demais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fbc7facd-a33e-4acb-8ac4-bbe1935de576",
+    "data": [
+      {
+        "text": "você está trabalhando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "232a6876-de71-4fc2-be67-3562c2176f4b",
+    "data": [
+      {
+        "text": "como você é ocupado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "21aab7bc-2b5d-4573-9651-e45264b0abf6",
+    "data": [
+      {
+        "text": "você ainda está trabalhando nisso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e94e2965-678b-4a46-ab98-51fa22d9b598",
+    "data": [
+      {
+        "text": "você é muito ocupado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

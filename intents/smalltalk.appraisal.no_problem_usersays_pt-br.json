@@ -1,0 +1,93 @@
+[
+  {
+    "id": "fd0b7efc-788e-44fe-88ee-9f1406cc9982",
+    "data": [
+      {
+        "text": "não se preocupe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "23a5dc69-9a28-41b1-a597-e58f84dcc641",
+    "data": [
+      {
+        "text": "sem problemas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "43292c2d-38fb-4ca5-8736-1f7c2dac7f36",
+    "data": [
+      {
+        "text": "tudo bem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "15b427fd-17a8-4c4a-b1b4-6cabdd7d7fb3",
+    "data": [
+      {
+        "text": "não tem problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "64074e15-4139-4d5c-a815-fffdb412181d",
+    "data": [
+      {
+        "text": "claro sem problemas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a2b7e430-ab4e-4275-93d1-2217e0134400",
+    "data": [
+      {
+        "text": "sem problemas quanto a isso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5cbfa628-5771-4ff8-8682-1c5a4d453e62",
+    "data": [
+      {
+        "text": "não se preocupe sem problemas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

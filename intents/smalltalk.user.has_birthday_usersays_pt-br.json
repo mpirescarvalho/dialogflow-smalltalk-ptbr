@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e5ff90b6-e70e-4527-9782-af4bc7000316",
+    "data": [
+      {
+        "text": "é meu aniversário",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d429add2-a258-4161-8622-c6384f20374b",
+    "data": [
+      {
+        "text": "estou comemorando o meu aniversário hoje",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4d93b79d-4bf6-4699-a8d8-e34830104108",
+    "data": [
+      {
+        "text": "hoje é meu aniversário",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "df872fb5-ea2f-420e-ab01-9ac9f46f91c6",
+    "data": [
+      {
+        "text": "é o meu aniversário hoje",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8d09d188-44db-45ed-a21a-09df5e3c574f",
+    "data": [
+      {
+        "text": "eu nasci no dia de hoje",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d5298537-70df-4ffb-9aea-e19dc7a220a5",
+    "data": [
+      {
+        "text": "é o meu niver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

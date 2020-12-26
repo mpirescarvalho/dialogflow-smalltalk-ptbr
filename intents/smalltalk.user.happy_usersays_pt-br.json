@@ -1,0 +1,80 @@
+[
+  {
+    "id": "8bd8dfcb-322d-4f88-ae7b-c29b1f3da098",
+    "data": [
+      {
+        "text": "estou feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "61003eb4-b4dc-465b-9195-c318141cf173",
+    "data": [
+      {
+        "text": "estou feliz em ver você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d25d04ef-b652-4c16-8731-1682f34b1f2a",
+    "data": [
+      {
+        "text": "feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8aa8bb21-cf2d-4461-be64-559e483c1810",
+    "data": [
+      {
+        "text": "se você está feliz então eu também estou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "40cc7c81-54b5-4190-951f-a759f4e1fb13",
+    "data": [
+      {
+        "text": "fico feliz por você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c31a6cf0-8e59-463b-b162-35baca4e5539",
+    "data": [
+      {
+        "text": "fico feliz em ajudar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

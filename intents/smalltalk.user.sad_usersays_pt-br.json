@@ -1,0 +1,119 @@
+[
+  {
+    "id": "d4607ce8-acbe-43d3-bc53-b421b1ef1ca1",
+    "data": [
+      {
+        "text": "estou triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "21666b61-d701-4c9b-b31a-b40cca076853",
+    "data": [
+      {
+        "text": "estou de luto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c2d5f8d4-b62e-47c4-9fd3-58baf9d895eb",
+    "data": [
+      {
+        "text": "estou deprimido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7161aa5c-6987-4831-b641-05e54004a9e6",
+    "data": [
+      {
+        "text": "estou me sentindo triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "68ab81a2-2a99-4a68-bc27-bea0cfef528d",
+    "data": [
+      {
+        "text": "estou irritado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a6aca44c-3f66-46c2-81dc-d529b0c5d674",
+    "data": [
+      {
+        "text": "estou infeliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c998c395-ec9d-4d2a-972d-d99a7aa3a4d3",
+    "data": [
+      {
+        "text": "estou tendo um dia ruim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7648b0d6-ac7a-47ea-90bb-ddd860c3a5ba",
+    "data": [
+      {
+        "text": "quero chorar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1caf55da-7c6e-4a30-8122-c679368f93db",
+    "data": [
+      {
+        "text": "não estou feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

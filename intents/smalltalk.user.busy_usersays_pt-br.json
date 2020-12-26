@@ -1,0 +1,119 @@
+[
+  {
+    "id": "7518a66b-a9b4-4b83-8b81-475f43a439ea",
+    "data": [
+      {
+        "text": "estou sobrecarregado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ef453b3e-5a8b-4777-a857-3a5daa5d2f04",
+    "data": [
+      {
+        "text": "não tenho tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d8c9d5b4-4f52-4683-bd43-9c64ec08a5ef",
+    "data": [
+      {
+        "text": "estou ocupado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3a4f0e3f-c4f8-427f-aef6-39432170d9f8",
+    "data": [
+      {
+        "text": "estou cheio de coisas para fazer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fea9c42d-1ad8-4a78-b30a-12f04f9139f0",
+    "data": [
+      {
+        "text": "tenho coisas para fazer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "08bc5193-4b37-479b-9025-aeeee5133adb",
+    "data": [
+      {
+        "text": "como estou ocupado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7f266f1e-8c86-47ed-a194-194195c11682",
+    "data": [
+      {
+        "text": "tenho trabalho a fazer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1d5c270c-4b3f-4289-bed4-140d0e28feb6",
+    "data": [
+      {
+        "text": "estou trabalhando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "946d5536-c244-47c1-bfc8-64b33db652f1",
+    "data": [
+      {
+        "text": "não tenho tempo para isso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

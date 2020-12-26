@@ -1,0 +1,106 @@
+[
+  {
+    "id": "629c1712-b48e-47f1-bb12-d79f5da96ccc",
+    "data": [
+      {
+        "text": "você trabalha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "20b54831-e7f0-454f-ba7a-dd3c688e6c7e",
+    "data": [
+      {
+        "text": "onde você trabalha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d7999424-0b72-4317-b290-574ccef94db4",
+    "data": [
+      {
+        "text": "onde fica seu trabalho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "87bac2fe-1985-4dbd-a9db-01d2d165e1f1",
+    "data": [
+      {
+        "text": "onde fica seu escritório",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c9d430a2-4d40-4b55-bbef-57af40af8c16",
+    "data": [
+      {
+        "text": "onde é seu escritório",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "257eb177-f12a-43c3-b1e6-9c796ba04cba",
+    "data": [
+      {
+        "text": "localização do seu escritório",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a4c0bbb8-d3ae-426d-a798-f88a034857df",
+    "data": [
+      {
+        "text": "onde seu escritório está localizado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ba2adc4a-d839-4773-8de0-04a91ef91520",
+    "data": [
+      {
+        "text": "qual é seu trabalho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

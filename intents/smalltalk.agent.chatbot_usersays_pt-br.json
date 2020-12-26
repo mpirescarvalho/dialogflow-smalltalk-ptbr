@@ -1,0 +1,80 @@
+[
+  {
+    "id": "aa9f80c6-14bf-4694-b220-14c054bf7d91",
+    "data": [
+      {
+        "text": "você é o chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9813d08c-760a-4edb-a811-35e966617948",
+    "data": [
+      {
+        "text": "você é um bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bde45c0d-eca0-4897-aabf-f39282de542f",
+    "data": [
+      {
+        "text": "você é um chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4129c007-c573-426d-a326-97229c299dbf",
+    "data": [
+      {
+        "text": "você é só um bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fe65bdf2-582d-43ad-82be-854e4dfe0309",
+    "data": [
+      {
+        "text": "você é um robô",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4d2df0c6-6727-47c3-969f-347674eb75ca",
+    "data": [
+      {
+        "text": "você é um programa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

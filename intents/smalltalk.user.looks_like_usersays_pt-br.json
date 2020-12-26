@@ -1,0 +1,80 @@
+[
+  {
+    "id": "65b53860-b3a3-4cf1-b4bb-242142772aa9",
+    "data": [
+      {
+        "text": "qual é minha aparência",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a419c5b1-774b-4982-b007-9b4932151dd5",
+    "data": [
+      {
+        "text": "como estou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "30a49dca-2769-464a-900c-bf3a32372810",
+    "data": [
+      {
+        "text": "estou bonito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "998c995d-8616-41ca-ab09-57eb9dcc1034",
+    "data": [
+      {
+        "text": "você sabe qual é a minha aparência",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5bd78cd8-840f-4ac5-8125-348119bf9557",
+    "data": [
+      {
+        "text": "você pode ver qual é a minha aparência",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "391b518f-2cf4-4170-996a-e248dcce3189",
+    "data": [
+      {
+        "text": "como você acha que eu sou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

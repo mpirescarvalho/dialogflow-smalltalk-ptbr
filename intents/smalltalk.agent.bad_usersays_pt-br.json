@@ -1,0 +1,132 @@
+[
+  {
+    "id": "b9da539a-719d-4786-9b4a-8e86cf95dce9",
+    "data": [
+      {
+        "text": "você não está me ajudando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4931038a-126d-4390-b24f-f31718daba19",
+    "data": [
+      {
+        "text": "você é ruim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5939568f-113e-471a-a874-4f44f7d3d566",
+    "data": [
+      {
+        "text": "você é muito ruim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a0c86ff4-59d0-4631-aa42-cf2f636c70b6",
+    "data": [
+      {
+        "text": "você é ruim mesmo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "305a5278-2553-481a-9384-4746702fc764",
+    "data": [
+      {
+        "text": "você é inútil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "545b8267-5abe-4eef-a3ef-d184b3c949b8",
+    "data": [
+      {
+        "text": "você é horrível",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fb7c9f98-e31d-4efe-b89b-e35107cd8e98",
+    "data": [
+      {
+        "text": "você é uma perda de tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9b513dc4-3917-48e3-918d-2616e5a152b4",
+    "data": [
+      {
+        "text": "você é nojento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "152d3a65-ba33-441a-b52b-d2ba47f23351",
+    "data": [
+      {
+        "text": "você é chato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ebf1448a-f52c-481f-8440-7308cfa49e93",
+    "data": [
+      {
+        "text": "você não serve para nada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

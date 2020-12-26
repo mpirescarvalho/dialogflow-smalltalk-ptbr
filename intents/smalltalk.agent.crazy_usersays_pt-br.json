@@ -1,0 +1,132 @@
+[
+  {
+    "id": "76c0a0d4-4e45-4e4d-ae1a-ef5a858ec71d",
+    "data": [
+      {
+        "text": "você é doido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "203aaab6-bc42-4968-8534-7122a0719121",
+    "data": [
+      {
+        "text": "você está louco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c784e23-c3c6-425e-b63f-f72c0aec8df4",
+    "data": [
+      {
+        "text": "você é louco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "290f7bf1-6024-40e4-8a04-979c2ef70fda",
+    "data": [
+      {
+        "text": "você perdeu a cabeça",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "48695a54-1fe3-4cc5-a2f6-00c9fcba2ea7",
+    "data": [
+      {
+        "text": "você é tão maluco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f2001a9f-2653-4d7a-8eb2-b278d5caade5",
+    "data": [
+      {
+        "text": "como você é louco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "873535fe-29fa-43ec-819f-31c6b87b7e98",
+    "data": [
+      {
+        "text": "você está fora de si",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4fe8dd80-46eb-4ca6-9edc-9fe9a72f5e07",
+    "data": [
+      {
+        "text": "você ficou maluca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1430d33b-e3b8-440c-bd1c-5f1ff094ca8c",
+    "data": [
+      {
+        "text": "acho que você está louco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e322166c-9002-42cc-82f5-1ca67d971a79",
+    "data": [
+      {
+        "text": "você enlouqueceu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

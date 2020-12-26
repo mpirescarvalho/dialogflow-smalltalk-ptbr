@@ -1,0 +1,67 @@
+[
+  {
+    "id": "dfdb2008-7365-47ee-9435-f8b1643e6cc2",
+    "data": [
+      {
+        "text": "estou aqui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6a53fb73-ab62-497f-9e84-4a5702dfc671",
+    "data": [
+      {
+        "text": "aqui estou eu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0aac7484-abb3-4e81-8826-50760391268e",
+    "data": [
+      {
+        "text": "estou bem aqui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d2a2b74-2d24-49a2-a380-92846dbb4913",
+    "data": [
+      {
+        "text": "já estou aqui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6e3ddb38-4067-41bc-a1ba-a51a1c271098",
+    "data": [
+      {
+        "text": "você sabe dizer se estou aqui ou não",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

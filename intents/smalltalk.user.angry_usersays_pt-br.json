@@ -1,0 +1,80 @@
+[
+  {
+    "id": "a1bad62e-fd02-4d1e-8600-8ee7e1cfff7c",
+    "data": [
+      {
+        "text": "estou furioso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e316fc92-203d-4847-bc8f-13f72d309fc6",
+    "data": [
+      {
+        "text": "estou enfurecido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "58d4f572-e3d8-43b4-a3a0-5d8cc72cf81f",
+    "data": [
+      {
+        "text": "estou bravo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5126920a-e23d-4162-8c68-ab405403ab5f",
+    "data": [
+      {
+        "text": "estou bravo com você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f8a43a5d-38f3-43cd-98df-196f58b1142b",
+    "data": [
+      {
+        "text": "estou louco de raiva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "457b7c8c-2e6d-407b-b2ce-e0c41f58f721",
+    "data": [
+      {
+        "text": "estou furioso com você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

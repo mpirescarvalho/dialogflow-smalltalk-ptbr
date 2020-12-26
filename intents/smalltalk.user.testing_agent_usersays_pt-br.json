@@ -1,0 +1,106 @@
+[
+  {
+    "id": "9e8e5afe-8b12-4e01-bb68-3899e59943e5",
+    "data": [
+      {
+        "text": "teste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3c0e70da-29ac-4428-91d2-f3dd8ce8b343",
+    "data": [
+      {
+        "text": "estou testando você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "11fa9bc7-2b68-49e0-82ba-63ef9bd31947",
+    "data": [
+      {
+        "text": "posso fazer um teste com você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "14ed3cf6-78b7-47d1-9c65-480d5ba7374a",
+    "data": [
+      {
+        "text": "quero testar você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f03e8ac-f3d2-4430-8a70-542e1aa24575",
+    "data": [
+      {
+        "text": "estou apenas testando você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "501840e0-b9cf-49be-90f8-a6b6e23cff17",
+    "data": [
+      {
+        "text": "me deixe fazer um teste com você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d1dfe990-de86-42d3-82ab-fb996e2d74e0",
+    "data": [
+      {
+        "text": "testando o chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "497cd3a7-b493-4481-ba51-5677ee4d8477",
+    "data": [
+      {
+        "text": "testando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

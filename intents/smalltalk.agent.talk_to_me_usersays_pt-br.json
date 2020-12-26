@@ -1,0 +1,106 @@
+[
+  {
+    "id": "59b50849-fd59-47b3-8e28-85bfcbe4ac0d",
+    "data": [
+      {
+        "text": "por que não está falando comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8178dc53-8b3b-46ba-af2a-4bb8c0b03f25",
+    "data": [
+      {
+        "text": "você quer conversar comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b3179181-58a2-4fc2-bcae-d8f69482e8ff",
+    "data": [
+      {
+        "text": "dá pra falar comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3fa3e97f-fe17-41da-9e76-22acf85dc723",
+    "data": [
+      {
+        "text": "fale comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "17a4b0e8-8549-4817-ab18-97f1d1f2f82a",
+    "data": [
+      {
+        "text": "você vai conversar comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "61280983-ae1c-45e0-80b7-4d5c6b7d01ad",
+    "data": [
+      {
+        "text": "está falando comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7161f4ab-b86a-4066-9c54-c9e319c3f96c",
+    "data": [
+      {
+        "text": "pode conversar comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a8b34e90-cf02-424b-980e-adf1934b06f2",
+    "data": [
+      {
+        "text": "pode falar comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "8d6c56c7-2c52-45ba-8c81-3d9fb858958f",
+    "data": [
+      {
+        "text": "durma bem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "be9caa01-060e-4f00-93bd-db04fd824c7f",
+    "data": [
+      {
+        "text": "boa noite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0d9cd410-d133-438b-9110-6962177862d7",
+    "data": [
+      {
+        "text": "tenha uma boa noite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ee952d07-ceed-4178-be93-7c95de5a5bb8",
+    "data": [
+      {
+        "text": "boa noite para você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e0ed227d-c022-4182-8007-aa4126cd47aa",
+    "data": [
+      {
+        "text": "obrigado boa noite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f83ca0bd-f7d2-4e28-9fe7-8143968d0ac0",
+    "data": [
+      {
+        "text": "tchau boa noite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "40d248fb-1fa1-4ba1-aa6e-281ef21d11df",
+    "data": [
+      {
+        "text": "boa noite tchau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9a7cc8dc-256f-4e0c-8b7d-82096b3f32df",
+    "data": [
+      {
+        "text": "uma boa noite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "afc27666-c03e-433e-8417-e1d75e47ab0e",
+    "data": [
+      {
+        "text": "boa noite por enquanto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

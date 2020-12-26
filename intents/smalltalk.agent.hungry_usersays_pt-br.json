@@ -1,0 +1,106 @@
+[
+  {
+    "id": "462da24a-d1ea-429c-80d3-1951e64e521f",
+    "data": [
+      {
+        "text": "você quer comer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d2b6adda-0cb9-454b-bca0-1ed4ad820356",
+    "data": [
+      {
+        "text": "está com fome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "15bc7129-bb8f-45e7-a35f-618832a8098c",
+    "data": [
+      {
+        "text": "gostaria de comer alguma coisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "52d74fd0-4d09-4fa8-b419-4616d8e5594a",
+    "data": [
+      {
+        "text": "você está com fome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "80ca0d5d-ac44-4582-bccf-0b54ae2f3c07",
+    "data": [
+      {
+        "text": "você está com tanta fome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d1443911-3487-4238-a5cf-9ff3109de76f",
+    "data": [
+      {
+        "text": "você está com muita fome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1c10b364-9970-4829-ad04-c30c23151718",
+    "data": [
+      {
+        "text": "acho que você está com fome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "df4feca0-30ae-417b-b0e1-400cbeedc970",
+    "data": [
+      {
+        "text": "você está faminto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

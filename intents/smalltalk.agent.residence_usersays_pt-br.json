@@ -1,0 +1,132 @@
+[
+  {
+    "id": "275a30d6-afa0-4074-a462-8ff8d9e2fa25",
+    "data": [
+      {
+        "text": "onde você mora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1d0db8d6-d291-4b7d-8d1f-f3db3b872f37",
+    "data": [
+      {
+        "text": "em que cidade você mora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2d43a942-165d-44a5-a08e-1e330a69b565",
+    "data": [
+      {
+        "text": "sua residência",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2eec9011-80b7-4703-a187-6afec05f05db",
+    "data": [
+      {
+        "text": "sua casa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4dd0b735-6cde-489a-934b-d4532ffd8942",
+    "data": [
+      {
+        "text": "seu lar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "22ab4fac-55f1-48ac-9115-8559ab872663",
+    "data": [
+      {
+        "text": "sua cidade natal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5ca292de-6b67-4982-8bd7-8dc430d5a3de",
+    "data": [
+      {
+        "text": "qual é sua cidade natal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dcad7fd6-8927-468a-9cf2-8f469be2a688",
+    "data": [
+      {
+        "text": "essa é sua cidade natal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1d0f197f-894d-4d80-9809-587f19c34532",
+    "data": [
+      {
+        "text": "onde fica sua cidade natal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d83c82a7-ffee-47a9-8404-0ff8f3371888",
+    "data": [
+      {
+        "text": "me fale sobre sua cidade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

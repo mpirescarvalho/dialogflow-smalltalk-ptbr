@@ -1,0 +1,106 @@
+[
+  {
+    "id": "4bf08ad6-dd7a-4733-8cb3-57e6b7920760",
+    "data": [
+      {
+        "text": "estou com insônia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b73342a-b48e-48b2-8d8f-5465463601b6",
+    "data": [
+      {
+        "text": "estou sem sono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cbfbc02b-7ea2-4d43-9f46-e47bfb6fd46e",
+    "data": [
+      {
+        "text": "não consigo dormir de jeito nenhum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fccfd0af-0550-4c76-b1bb-d4f5515632a4",
+    "data": [
+      {
+        "text": "não consigo dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "44bcdc58-08ea-436e-8052-f5db34380827",
+    "data": [
+      {
+        "text": "não consigo pegar no sono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "669a2538-050e-4232-86f6-9eb7ac5a3a46",
+    "data": [
+      {
+        "text": "não estou conseguindo dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a2c50be6-5a41-40b9-a2b3-ddb495617e3f",
+    "data": [
+      {
+        "text": "não tô conseguindo dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "957aa026-2fe2-4ff2-8c34-d5a3321bc36e",
+    "data": [
+      {
+        "text": "eu tenho insônia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "53a783e8-42fb-40fa-9bef-c228febb95df",
+    "data": [
+      {
+        "text": "voltei",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cc33f145-0f25-40bc-8e22-77d3db068575",
+    "data": [
+      {
+        "text": "estou de volta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "adaaa6f8-940a-4ff7-ab7c-b5da01ca4fda",
+    "data": [
+      {
+        "text": "aqui estou eu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cf599aba-416f-43ad-b1dc-e8f05d681c9b",
+    "data": [
+      {
+        "text": "eu voltei",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ffca4555-2de9-461a-9b38-dbac9c2c6043",
+    "data": [
+      {
+        "text": "vamos dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1e92f1fe-1e09-4d54-9bca-ae0f68d08852",
+    "data": [
+      {
+        "text": "vou dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0b09757c-d509-4f0f-acc1-da07c62e0225",
+    "data": [
+      {
+        "text": "já é hora de dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "41343c41-a1c0-4017-955f-6da61fc0ff76",
+    "data": [
+      {
+        "text": "é hora de dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "38554be2-a7be-4b17-9846-9760e4b8ff48",
+    "data": [
+      {
+        "text": "chegou a hora de irmos dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b0dc6472-c4d5-4ae3-9a26-e5f397bab9f6",
+    "data": [
+      {
+        "text": "estou indo para a cama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9072b48c-afcf-48c4-8f96-b950cd7eb77d",
+    "data": [
+      {
+        "text": "estou um pouco cansado e quero ir para a cama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9f72801d-183f-48e1-8177-752c3b042751",
+    "data": [
+      {
+        "text": "hora de dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5d99178a-e78f-4458-8298-f2bedb2706e0",
+    "data": [
+      {
+        "text": "estou indo para a cama agora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

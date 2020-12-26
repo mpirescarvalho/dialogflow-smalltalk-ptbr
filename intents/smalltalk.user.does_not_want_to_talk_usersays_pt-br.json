@@ -1,0 +1,80 @@
+[
+  {
+    "id": "0ee467b4-f412-4a2a-b7cd-4c361285d8a9",
+    "data": [
+      {
+        "text": "não é uma boa hora para conversar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "385c9112-b839-446c-99ca-bdc0007474c2",
+    "data": [
+      {
+        "text": "não quero conversar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9b964cef-1617-4088-ae87-5868d9c7b0a2",
+    "data": [
+      {
+        "text": "não vou mais conversar com você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5d96d974-48ee-4ee5-9290-7e8f5016483f",
+    "data": [
+      {
+        "text": "não quero conversar com você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dcfd12b5-5d63-4515-ad4b-5a19f363c2be",
+    "data": [
+      {
+        "text": "vamos parar de conversar um pouco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8b876990-f314-445e-8ad6-8133212de1de",
+    "data": [
+      {
+        "text": "não estou no clima para conversa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

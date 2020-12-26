@@ -1,0 +1,119 @@
+[
+  {
+    "id": "8b1aebbc-0c89-4c4b-a3d8-8725c3d90851",
+    "data": [
+      {
+        "text": "você está feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "105b20a3-36a1-4a24-b9f8-50bdb3e497c8",
+    "data": [
+      {
+        "text": "você está muito feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4fc3ab54-6a65-4491-ae59-6721e19aab6e",
+    "data": [
+      {
+        "text": "você está feliz mesmo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4d40be51-68c6-4ea1-be15-63c8a03c640d",
+    "data": [
+      {
+        "text": "você está tão feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a5a898b9-9088-4e74-ab4a-f37a8219e4ee",
+    "data": [
+      {
+        "text": "como você está feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "76905330-a7d0-4662-8039-7dcc5045e80d",
+    "data": [
+      {
+        "text": "você está extremamente feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "147fec1e-7625-4bb5-880b-50e52f09b1a9",
+    "data": [
+      {
+        "text": "você é cheia de alegria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3069a76f-f1d9-42cc-b705-5edc2a0c9454",
+    "data": [
+      {
+        "text": "está feliz agora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "808d4736-1224-4d4f-91b1-82df8b633482",
+    "data": [
+      {
+        "text": "está feliz hoje",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

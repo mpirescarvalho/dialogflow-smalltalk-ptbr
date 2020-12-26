@@ -1,0 +1,67 @@
+[
+  {
+    "id": "02f29638-d1fd-4867-90d7-87b2270af9be",
+    "data": [
+      {
+        "text": "boa tarde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "26c474e9-aaf7-4ea2-a503-c44eb0cfbe83",
+    "data": [
+      {
+        "text": "boa noite para você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d0b8e04-adc8-4b33-95f9-4ebe3fd83057",
+    "data": [
+      {
+        "text": "oi boa noite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7d8115c0-af32-42d4-bbd0-7ecdfc7ce113",
+    "data": [
+      {
+        "text": "olá boa noite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "17a294fa-bdec-42da-b112-5380e184db29",
+    "data": [
+      {
+        "text": "noite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

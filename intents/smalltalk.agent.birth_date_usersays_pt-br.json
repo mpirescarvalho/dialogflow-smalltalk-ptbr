@@ -1,0 +1,93 @@
+[
+  {
+    "id": "76b28ba0-1166-4ec0-a203-94a7a95772b0",
+    "data": [
+      {
+        "text": "sua data de nascimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eb1a5aea-2657-4d03-950a-bb74b699dd39",
+    "data": [
+      {
+        "text": "quando é seu aniversário",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8c5e7fd1-6dc3-4a9e-8a73-6664e540c139",
+    "data": [
+      {
+        "text": "quando você comemora seu aniversário",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ce6e6a44-6405-4938-9f42-c4cf55ce5b2d",
+    "data": [
+      {
+        "text": "quando você faz aniversário",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4697d327-9897-42f0-829d-09e189df7958",
+    "data": [
+      {
+        "text": "data do seu aniversário",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b763c3f9-9bd9-460f-943c-e9b4cd7fc1cf",
+    "data": [
+      {
+        "text": "quando você nasceu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d279aa9f-7093-434a-845c-2fa21da2c101",
+    "data": [
+      {
+        "text": "qual é sua data de nascimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

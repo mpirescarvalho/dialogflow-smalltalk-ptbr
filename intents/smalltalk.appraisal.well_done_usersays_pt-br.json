@@ -1,0 +1,67 @@
+[
+  {
+    "id": "047d44b8-f728-47d9-bef5-e0594adc54d5",
+    "data": [
+      {
+        "text": "bom trabalho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b1cecaa2-b90f-4d77-acef-8c169bd55989",
+    "data": [
+      {
+        "text": "ótimo trabalho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "419b8a07-e356-40a2-a38d-bd7a5d8270bc",
+    "data": [
+      {
+        "text": "parabéns",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b7152956-0746-4b12-a643-eda0a490e6ee",
+    "data": [
+      {
+        "text": "trabalho excelente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "601faa5e-b1d6-4b52-9e60-c58b8f222dbd",
+    "data": [
+      {
+        "text": "ótimo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

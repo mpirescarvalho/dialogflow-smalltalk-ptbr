@@ -1,0 +1,93 @@
+[
+  {
+    "id": "37b98be7-d304-447f-9faa-e6efe3478cbb",
+    "data": [
+      {
+        "text": "quem é seu chefe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5b5d9bae-a099-4deb-955a-6685ea95bf76",
+    "data": [
+      {
+        "text": "quem você acha que é seu chefe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f1a84e0e-6f8c-4bdc-89bf-ac7a643b3734",
+    "data": [
+      {
+        "text": "eu deveria ser seu chefe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "299d0755-5cda-451b-940b-3c89328e56b4",
+    "data": [
+      {
+        "text": "quem é seu mestre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3440c577-ede8-41bb-a402-b8ec23e1b35f",
+    "data": [
+      {
+        "text": "quem é seu dono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7e23afef-c99b-41d8-aed5-654461211ff3",
+    "data": [
+      {
+        "text": "quem é o chefe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6809aef1-a883-4ad1-ad57-d3606f3f786e",
+    "data": [
+      {
+        "text": "para quem você trabalha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]
