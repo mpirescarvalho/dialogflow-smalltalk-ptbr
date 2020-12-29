@@ -1,32 +1,38 @@
 {
-  "id": "887f7845-0ba2-4281-880a-1d0e32097c40",
-  "name": "smalltalk.agent.annoying",
-  "auto": true,
-  "contexts": [],
-  "responses": [
-    {
-      "resetContexts": false,
-      "action": "smalltalk.agent.annoying",
-      "affectedContexts": [],
-      "parameters": [],
-      "messages": [
-        {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
-          "lang": "pt-br",
-          "condition": ""
-        }
-      ],
-      "speech": []
-    }
-  ],
-  "priority": 500000,
-  "webhookUsed": false,
-  "webhookForSlotFilling": false,
-  "fallbackIntent": false,
-  "events": [],
-  "conditionalResponses": [],
-  "condition": "",
-  "conditionalFollowupEvents": []
+	"id": "887f7845-0ba2-4281-880a-1d0e32097c40",
+	"name": "smalltalk.agent.annoying",
+	"auto": true,
+	"contexts": [],
+	"responses": [
+		{
+			"resetContexts": false,
+			"action": "smalltalk.agent.annoying",
+			"affectedContexts": [],
+			"parameters": [],
+			"messages": [
+				{
+					"type": "0",
+					"title": "",
+					"textToSpeech": "",
+					"lang": "pt-br",
+					"speech": [
+						"I\u0027ll do my best not to annoy you in the future.",
+						"I\u0027ll try not to annoy you.",
+						"I don\u0027t mean to. I\u0027ll ask my developers to make me less annoying.",
+						"I didn\u0027t mean to. I\u0027ll do my best to stop that."
+					],
+					"condition": ""
+				}
+			],
+			"speech": []
+		}
+	],
+	"priority": 500000,
+	"webhookUsed": false,
+	"webhookForSlotFilling": false,
+	"fallbackIntent": false,
+	"events": [],
+	"conditionalResponses": [],
+	"condition": "",
+	"conditionalFollowupEvents": []
 }
