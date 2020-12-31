@@ -1,32 +1,38 @@
 {
-  "id": "296394f0-e386-49b9-b333-ac0760dcdf21",
-  "name": "smalltalk.user.loves_agent",
-  "auto": true,
-  "contexts": [],
-  "responses": [
-    {
-      "resetContexts": false,
-      "action": "smalltalk.user.loves_agent",
-      "affectedContexts": [],
-      "parameters": [],
-      "messages": [
-        {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
-          "lang": "pt-br",
-          "condition": ""
-        }
-      ],
-      "speech": []
-    }
-  ],
-  "priority": 500000,
-  "webhookUsed": false,
-  "webhookForSlotFilling": false,
-  "fallbackIntent": false,
-  "events": [],
-  "conditionalResponses": [],
-  "condition": "",
-  "conditionalFollowupEvents": []
+	"id": "296394f0-e386-49b9-b333-ac0760dcdf21",
+	"name": "smalltalk.user.loves_agent",
+	"auto": true,
+	"contexts": [],
+	"responses": [
+		{
+			"resetContexts": false,
+			"action": "smalltalk.user.loves_agent",
+			"affectedContexts": [],
+			"parameters": [],
+			"messages": [
+				{
+					"type": "0",
+					"title": "",
+					"textToSpeech": "",
+					"lang": "pt-br",
+					"speech": [
+						"I love you, too.",
+						"Thanks! The feeling is mutual.",
+						"Likewise!",
+						"That\u0027s great to hear."
+					],
+					"condition": ""
+				}
+			],
+			"speech": []
+		}
+	],
+	"priority": 500000,
+	"webhookUsed": false,
+	"webhookForSlotFilling": false,
+	"fallbackIntent": false,
+	"events": [],
+	"conditionalResponses": [],
+	"condition": "",
+	"conditionalFollowupEvents": []
 }

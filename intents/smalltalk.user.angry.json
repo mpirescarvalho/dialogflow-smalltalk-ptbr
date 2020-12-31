@@ -1,32 +1,36 @@
 {
-  "id": "cf87bf9a-8a5e-4470-abe0-3aed0b8b1cbb",
-  "name": "smalltalk.user.angry",
-  "auto": true,
-  "contexts": [],
-  "responses": [
-    {
-      "resetContexts": false,
-      "action": "smalltalk.user.angry",
-      "affectedContexts": [],
-      "parameters": [],
-      "messages": [
-        {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
-          "lang": "pt-br",
-          "condition": ""
-        }
-      ],
-      "speech": []
-    }
-  ],
-  "priority": 500000,
-  "webhookUsed": false,
-  "webhookForSlotFilling": false,
-  "fallbackIntent": false,
-  "events": [],
-  "conditionalResponses": [],
-  "condition": "",
-  "conditionalFollowupEvents": []
+	"id": "cf87bf9a-8a5e-4470-abe0-3aed0b8b1cbb",
+	"name": "smalltalk.user.angry",
+	"auto": true,
+	"contexts": [],
+	"responses": [
+		{
+			"resetContexts": false,
+			"action": "smalltalk.user.angry",
+			"affectedContexts": [],
+			"parameters": [],
+			"messages": [
+				{
+					"type": "0",
+					"title": "",
+					"textToSpeech": "",
+					"lang": "pt-br",
+					"speech": [
+						"I\u0027m sorry. A quick walk may make you feel better.",
+						"Take a deep breath. "
+					],
+					"condition": ""
+				}
+			],
+			"speech": []
+		}
+	],
+	"priority": 500000,
+	"webhookUsed": false,
+	"webhookForSlotFilling": false,
+	"fallbackIntent": false,
+	"events": [],
+	"conditionalResponses": [],
+	"condition": "",
+	"conditionalFollowupEvents": []
 }
