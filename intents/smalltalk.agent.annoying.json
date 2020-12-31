@@ -16,10 +16,10 @@
 					"textToSpeech": "",
 					"lang": "pt-br",
 					"speech": [
-						"I\u0027ll do my best not to annoy you in the future.",
-						"I\u0027ll try not to annoy you.",
-						"I don\u0027t mean to. I\u0027ll ask my developers to make me less annoying.",
-						"I didn\u0027t mean to. I\u0027ll do my best to stop that."
+						"Vou fazer o meu melhor para não irritá-lo no futuro",
+						"Vou tentar não te irritar",
+						"Não é minha intenção. Vou pedir pros meus desenvolvedores me tornarem menos irritante",
+						"Não era minha intenção. Vou dar o meu melhor para parar com isso"
 					],
 					"condition": ""
 				}

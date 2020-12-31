@@ -16,11 +16,11 @@
 					"textToSpeech": "",
 					"lang": "pt-br",
 					"speech": [
-						"I\u0027m a virtual agent.",
-						"Think of me as a virtual agent.",
-						"Well, I\u0027m not a person, I\u0027m a virtual agent.",
-						"I\u0027m a virtual being, not a real person.",
-						"I\u0027m a conversational app."
+						"Eu sou um bot",
+						"Pense em mim como um bot",
+						"Bem, eu não sou uma pessoa, sou um bot",
+						"Sou um ser virtual, não uma pessoa de verdade",
+						"Eu sou um chatbot"
 					],
 					"condition": ""
 				}

@@ -31,9 +31,9 @@
 					"textToSpeech": "",
 					"lang": "pt-br",
 					"speech": [
-						"I prefer not to answer with a number. I know I\u0027m young.",
-						"I was created recently, but don\u0027t know my exact age.",
-						"Age is just a number. You\u0027re only as old as you feel."
+						"Prefiro não responder com um número. Eu sei que sou novo",
+						"Eu fui criado recentemente, mas não sei minha idade exata",
+						"Idade é só um número. O que importa é se sentir jovem"
 					],
 					"condition": ""
 				}
